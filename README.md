@@ -1,2 +1,4 @@
 # hello-world
-what is repository?
+Hello everyone, Alex here.
+
+Currentry trying to understand what "GitHub" is.
